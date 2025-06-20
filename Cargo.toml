@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/OneIdentity_backend"
+]
+resolver = "2"
